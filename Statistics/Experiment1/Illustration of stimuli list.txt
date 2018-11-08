@@ -1,0 +1,49 @@
+Illustrations for stimuli file.
+
+"type" refers to the four conditions and their filler sentences.
+type 1 is the condition RC/NonCE.
+type 2 is the condition NonRC/NonCE.
+type 3 is the condition RC/CE.
+type 4 is the condition NonRC/CE.
+type 5 is the filler stimuli with identical length to previous four experimental types.
+type 7 is the longer filler stimuli with length ranging from 7 to 10.
+
+
+"sentence" is the sentential stimuli participants comprehended.
+
+"probe" is the comprehension question used for participants' attention and designated behavior.
+
+"CorrAns" is the keyboard character of "yes" and "no."
+"j" is for "yes" and "f" is for "no."
+
+"pType" stands for the probe question (comprehension question) type. There are 9 variants ranging from 0 to 8.
+0 means that the answer was "yes" and the question asked about the subject.
+1 means that the answer was "yes" and the question asked about the object.
+2 means that the answer was "yes" and the question asked about the verb.
+3 means that the answer was "no" and the question asked about the subject.
+4 means that the answer was "no" and the question asked about the object.
+5 means that the answer was "no" and the question asked about the verb.
+pType three to five used the subject, object, and verb of the other clause respectively to make the answer "no."
+
+6 means that the answer was "no" and the question asked about the subject.
+7 means that the answer was "no" and the question asked about the object.
+8 means that the answer was "no" and the question asked about the verb.
+pType six to eight used a novel subject, object, and verb that was not included in the sentence to make the answer "no."
+
+
+
+"cType" stands for the case marker pair type. There are 4 variants ranging from 0 to 3.
+0 means that the two nominative cases used in the stimulus was both "-ika." 
+1 means that the two nominative cases used in the stimulus was "-ika" followed by a "-ka." 
+2 means that the two nominative cases used in the stimulus was both "-ka" followed by a "-ika." 
+3 means that the two nominative cases used in the stimulus was both "-ka." 
+
+
+"gType" stands for the gender pair type of the two Korean names used in the stimulus. 
+The differentiation of the gender of names are not 100% decisive for every Koreans but statistically significant asymmetry exists.
+0 means that the two names used in the stimulus was both feminine name. 
+1 means that the two names used in the stimulus was both masculine name.
+2 means that the two names used in the stimulus was presented in a sequence that masculine name comes first and the feminin name second.
+3 means that the two names used in the stimulus was presented in a sequence that feminine name comes first and the masculine name second.
+4 means there were only one names used and it was feminine name. This was only for filler sentences that had only one subject.
+5 means there were only one names used and it was masculine name. This was only for filler sentences that had only one subject.
