@@ -1,0 +1,38 @@
+Illustrations for stimuli file.
+
+"type" refers to the four conditions and their filler sentences.
+type 1 is the condition RC/NonCE.
+type 2 is the condition NonRC/NonCE.
+type 3 is the condition RC/CE.
+type 4 is the condition NonRC/CE.
+type 5 is the filler stimuli with identical length to previous four experimental types.
+
+
+"sentence1" is the sentential stimuli participants comprehended.
+
+"probe1" is the comprehension question used for participants' attention and designated behavior.
+
+"CorrAns1" is the keyboard character of "yes" and "no."
+"j" is for "yes" and "f" is for "no."
+
+"pType1" stands for the probe question (comprehension question) type. There are 9 variants ranging from 0 to 7.
+The comprehension question was shown somewhat different from that of Experiment 1.
+Only a set of a subject, an object, and a verb was shown and it was in the exactly same format. 
+In Experiment 1, the sentences used in probe questions were reordered so that the reader would recognize whether the questions asks about the subject, object, or verb.
+In Experiment 2, we did not let participants recognize the constituent we were asking so that they would have to focus more.
+0 means that the answer was "yes" and the question asked about the subordinate clause. So there was an identical clause as the sentence stimuli presented previously.
+1 means that the answer was "yes" and the question asked about the main clause. So there was an identical clause as the sentence stimuli presented previously.
+2 means that the answer was "no" and the question changed the subject of the subordinate clause to that of main clause.  
+3 means that the answer was "no" and the question changed the object of the subordinate clause to that of main clause.
+4 means that the answer was "no" and the question changed the verb of the subordinate clause to that of main clause.
+5 means that the answer was "no" and the question changed the subject of the main clause to that of subordinate clause. 
+6 means that the answer was "no" and the question changed the object of the main clause to that of subordinate clause.  
+7 means that the answer was "no" and the question changed the verb of the main clause to that of subordinate clause.   
+pTypes from two to seven, used the subject, object, and verb of the other clause respectively and replaced it with the one in the current clause to make the answer "no."
+
+
+"cType1" stands for the case marker pair type. There are 4 variants ranging from 0 to 3.
+0 means that the two nominative cases used in the stimulus was both "-ika." 
+1 means that the two nominative cases used in the stimulus was "-ika" followed by a "-ka." 
+2 means that the two nominative cases used in the stimulus was both "-ka" followed by a "-ika." 
+3 means that the two nominative cases used in the stimulus was both "-ka." 
